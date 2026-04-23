@@ -1,16 +1,16 @@
-# 🖥️ Laboratório de Virtualização
+#  Laboratório de Virtualização
 
 Projeto introdutório de virtualização focado na criação e configuração de máquinas virtuais Windows e Linux utilizando Oracle VirtualBox para preparação de ambientes de laboratório.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Praticar conceitos básicos de virtualização através da criação e configuração de máquinas virtuais, compreendendo o processo de provisionamento de recursos e instalação de sistemas operacionais em ambiente virtualizado.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Oracle VirtualBox  
 - Windows  
@@ -18,7 +18,7 @@ Praticar conceitos básicos de virtualização através da criação e configura
 
 ---
 
-## ⚙️ Atividades Realizadas
+##  Atividades Realizadas
 
 Durante o laboratório foram executadas as seguintes atividades:
 
@@ -29,7 +29,7 @@ Durante o laboratório foram executadas as seguintes atividades:
 
 ---
 
-## 📸 Evidências do Projeto
+##  Evidências do Projeto
 
 ### Máquina Virtual Windows
 
@@ -63,7 +63,7 @@ Durante o laboratório foram executadas as seguintes atividades:
 
 ---
 
-## 📚 Conhecimentos Aplicados
+##  Conhecimentos Aplicados
 
 - Fundamentos de Virtualização  
 - Provisionamento de Máquinas Virtuais  
@@ -72,6 +72,6 @@ Durante o laboratório foram executadas as seguintes atividades:
 
 ---
 
-## 🚀 Resultado
+##  Resultado
 
 Ao final do laboratório foi possível criar e configurar ambientes virtualizados funcionais para Windows e Linux, estabelecendo base prática para desenvolvimento de futuros laboratórios técnicos em infraestrutura e suporte.
